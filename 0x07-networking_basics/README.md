@@ -1,56 +1,50 @@
 # 0x07. Networking basics #0
 
-## Resources:books:
-Read or watch:
-* [OSI model](https://intranet.hbtn.io/rltoken/ERGikvYsVP3sa9ZdlAAV4w)
-* [Different types of network](https://intranet.hbtn.io/rltoken/H2peG3mV1MDDEK9c9FpGjA)
-* [LAN network](https://intranet.hbtn.io/rltoken/GLVy5U4Ja4c2BnKYDPwT5Q)
-* [WAN network](https://intranet.hbtn.io/rltoken/IghQOBbQi3Y-H82l3s9ERg)
-* [Internet](https://intranet.hbtn.io/rltoken/osfQ04v-6oWuX4LdcpMYfQ)
-* [MAC address](https://intranet.hbtn.io/rltoken/DjY02-vo10kphmiYSa2Msg)
-* [What is an IP address](https://intranet.hbtn.io/rltoken/_pRm6TVS3zWV_cKg51Gn4Q)
-* [Private and public address](https://intranet.hbtn.io/rltoken/Tj1tSxadTHv8kS9Q7lzTpQ)
-* [IPv4 and IPv6](https://intranet.hbtn.io/rltoken/t9AVXK9jpPJrL5ikz5fvKA)
-* [Localhost](https://intranet.hbtn.io/rltoken/uqDHdS73W-CJQakM8vERtQ)
-* [TCP and UDP](https://intranet.hbtn.io/rltoken/nOeDjXQrw-N8eFmTBiuzqw)
-* [TCP/UDP ports List](https://intranet.hbtn.io/rltoken/gfKJyK0ztzhyNO0SIvVibQ)
-* [What is ping /ICMP](https://intranet.hbtn.io/rltoken/OPrB4crHtTLwUynA5YjVNw)
-* [Positional parameters](https://intranet.hbtn.io/rltoken/yN_ZinFzBaLXuJhOhKiMfw)
+## Resources
 
----
-## Learning Objectives:bulb:
-What you should learn from this project:
+- [OSI model](https://en.wikipedia.org/wiki/OSI_model)
+- [Different types of network](https://www.lifewire.com/lans-wans-and-other-area-networks-817376)
+- [LAN Network](https://en.wikipedia.org/wiki/Local_area_network)
+- [WAN Network](https://en.wikipedia.org/wiki/Wide_area_network)
+- [Internet](https://en.wikipedia.org/wiki/Internet)
+- [MAC address](https://whatismyipaddress.com/mac-address)
+- [What is an IP address](https://www.bleepingcomputer.com/tutorials/ip-addresses-explained/)
+- [Private and public address](https://www.iplocation.net/public-vs-private-ip-address)
+- [IPv4 and IPv6](https://www.webopedia.com/insights/ipv6-ipv4-difference/)
+- [Localhost](https://en.wikipedia.org/wiki/Localhost)
+- [TCP and UDP](https://www.howtogeek.com/190014/htg-explains-what-is-the-difference-between-tcp-and-udp/)
+- [TCP/UDP ports List](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+- [What is ping/ICMP](https://en.wikipedia.org/wiki/Ping_%28networking_utility%29)
+- [Positional parameters](https://wiki.bash-hackers.org/scripting/posparams)
 
-* What it is
-* How many layers it has
-* How it is organized
+## Tasks
 
----
+<details>
+<summary><a href="./0-OSI_model">0. OSI model</a></summary><br>
+<a href='https://postimg.cc/xJx2swkS' target='_blank'><img src='https://i.postimg.cc/MHxpGxqX/image.png' border='0' alt='image'/></a>
+</details>
 
-### [0. OSI model](./0-OSI_model)
-* OSI (Open Systems Interconnection) is an abstract model to describe layered communication and computer network design. The idea is to segregate the different parts of what make communication possible.
+<details>
+<summary><a href="./1-types_of_network">1. Types of network</a></summary><br>
+<a href='https://postimg.cc/n9B3s7fw' target='_blank'><img src='https://i.postimg.cc/J0dv2c6m/image.png' border='0' alt='image'/></a>
+</details>
 
+<details>
+<summary><a href="./2-MAC_and_IP_address">2. MAC and IP address</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/2yp2bcK1/image.png' border='0' alt='image'/></a>
+</details>
 
-### [1. Types of network](./1-types_of_network)
-* 
+<details>
+<summary><a href="./3-UDP_and_TCP">3. UDP and TCP</a></summary><br>
+<a href='https://postimg.cc/qzbdpVQh' target='_blank'><img src='https://i.postimg.cc/0yx5d9wf/image.png' border='0' alt='image'/></a>
+</details>
 
+<details>
+<summary><a href="./4-TCP_and_UDP_ports">4. TCP and UDP ports</a></summary><br>
+<a href='https://postimg.cc/v4KMtFVF' target='_blank'><img src='https://i.postimg.cc/5t401f90/image.png' border='0' alt='image'/></a>
+</details>
 
-### [2. MAC and IP address](./2-MAC_and_IP_address)
-* 
-
-
-### [3. UDP and TCP](./3-UDP_and_TCP)
-* 
-
-
-### [4. TCP and UDP ports](./4-TCP_and_UDP_ports)
-* Once packets have been sent to the right network device using IP using either UDP or TCP as a mode of transportation, it needs to actually enter the network device.
-
-
-### [5. Is the host on the network](./5-is_the_host_on_the_network)
-* 
-
----
-
-## Author
-* **Arturo Victoria Rincon** - [arvicrin](https://github.com/arvicrin)
+<details>
+<summary><a href="./5-is_the_host_on_the_network">5. Is the host on the network</a></summary><br>
+<a href='https://postimg.cc/PCJ2YNZy' target='_blank'><img src='https://i.postimg.cc/FHg8tLHM/image.png' border='0' alt='image'/></a>
+</details>

@@ -1,59 +1,78 @@
-# 0x06. Regular expression
+# 0x06. Regular expression 
 
-## Resources:books:
-Read or watch:
-* [Regular expressions - basics](https://intranet.hbtn.io/rltoken/SJ2eQ7V2iQlCgLc-L96zWg)
-* [Regular expressions - advanced](https://intranet.hbtn.io/rltoken/qyjWL-J1_qUaZGR690gH1Q)
-* [Rubular is your best friend](https://intranet.hbtn.io/rltoken/WCjn8NgohbQ5NGXEObWZvQ)
-* [Use a regular expression against a problem: now you have 2 problems](https://intranet.hbtn.io/rltoken/Zfvv_ydOCvJ_YaBB6eDqVw)
-* [Learn Regular Expressions with simple, interactive exercises](https://intranet.hbtn.io/rltoken/Y-OVGcJ5cskdXWIBowiE_A)
+## Resource
 
----
-## Learning Objectives:bulb:
-What you should learn from this project:
+<details>
+<summary>Regular Expression</summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/mkcB0Yk1/image.png' border='0' alt='image'/></a>
+<ul>
+  <li>Links from screenshot
+  <ul>
+      <li><a href="https://www.regular-expressions.info/">regular-expressions</a></li>
+      <li><a href="https://www.w3schools.com/jsref/jsref_obj_regexp.asp">Play with regexp</a></li>
+      <li><a href="https://rubular.com/">Ruby</a></li>
+      <li><a href="https://regex101.com/">PHP/Javascript/Python</a></li>
+  </ul>
+  </li>
+</ul>
+</details>
 
----
+- [Regular expressions - basics](https://www.slideshare.net/neha_jain/introducing-regular-expressions)
+- [Regular expressions - advanced](https://www.slideshare.net/neha_jain/advanced-regular-expressions-80296518)
+- [Rubular is your best friend](https://rubular.com/)
+- [Use a regular expression against a problem: now you have 2 problems](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/)
+- [Learn Regular Expressions with simple, interactive exercises](https://regexone.com/)
 
-### [0. Simply matching Holberton](./0-simply_match_holberton.rb)
-* 
+## Tasks
 
+<details>
+<summary><a href="./0-simply_match_school.rb">0. Simply matching School</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/1zCjqLRw/image.png' border='0' alt='image'/></a>
+</details>
 
-### [1. Repetition Token #0](./1-repetition_token_0.rb)
-* 
+<details>
+<summary><a href="./1-repetition_token_0.rb">1. Repetition Token #0</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/dtgN5CgX/image.png' border='0' alt='image'/></a>
+</details>
 
+<details>
+<summary><a href="./2-repetition_token_1.rb">2. Repetition Token #1</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/QMLWH8wv/image.png' border='0' alt='image'/></a>
+</details>
 
-### [2. Repetition Token #1](./2-repetition_token_1.rb)
-* 
+<details>
+<summary><a href="./3-repetition_token_2.rb">3. Repetition Token #2</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/6pZfHmXJ/image.png' border='0' alt='image'/></a>
+</details>
 
+<details>
+<summary><a href="./4-repetition_token_3.rb">4. Repetition Token #3</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/sf92mzKN/image.png' border='0' alt='image'/></a>
+</details>
 
-### [3. Repetition Token #2](./3-repetition_token_2.rb)
-* 
+<details>
+<summary><a href="./5-beginning_and_end.rb">5. Not quite HBTN yet</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/TwdsXrMm/image.png' border='0' alt='image'/></a>
+</details>
 
+<details>
+<summary><a href="./6-phone_number.rb">6. Call me maybe</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Kz1Hzmjv/image.png' border='0' alt='image'/></a>
+</details>
 
-### [4. Repetition Token #3](./4-repetition_token_3.rb)
-* 
+<details>
+<summary><a href="./7-OMG_WHY_ARE_YOU_SHOUTING.rb">7. OMG WHY ARE YOU SHOUTING?</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/yYsypVKg/image.png' border='0' alt='image'/></a>
+</details>
 
-
-### [5. Not quite HBTN yet](./5-beginning_and_end.rb)
-* Requirements:
-
-
-### [6. Call me maybe](./6-phone_number.rb)
-* This task is brought to you by Holberton mentor Neha Jain, Senior Software Engineer at LinkedIn.
-
-
-### [7. OMG WHY ARE YOU SHOUTING?](./7-OMG_WHY_ARE_YOU_SHOUTING.rb)
-* 
-
-
-### [8. Textme](./100-textme.rb)
-* This exercise was prepared for you by Guillaume Plessis, VP of Infrastructure at TextMe. It is something he uses daily. You can thank Guillaume for his project on Twitter.
-
-
-### [9. Pass LinkedIn technical interview level0](./101-passed_linkedin_regex_challenge.jpg)
-* One way to get started in getting a Software Engineering job at LinkedIn is to solve their regex puzzle.
-
----
-
-## Author
-* **Arturo Victoria Rincon** - [arvicrin](https://github.com/arvicrin)
+<details>
+<summary><a href="./100-textme.rb">8. Textme</a></summary><br>
+<a href='https://postimg.cc/3kzNT3Sb' target='_blank'><img src='https://i.postimg.cc/wBjmDvhH/image.png' border='0' alt='image'/></a>
+<ul>
+  <li>Links from screenshot
+  <ul>
+      <li><a href="./text_messages.log">text messages log file</a></li>
+  </ul>
+  </li>
+</ul>
+</details>
